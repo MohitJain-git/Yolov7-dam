@@ -1,0 +1,14 @@
+{
+    "Person": [{
+        "person_name" : "name",
+        "person_id": "id",
+        "confidence" : "conf",
+        "bounding box" : "[x,y,x1,y1]",
+        "position" : "fromleft"
+
+    }],
+    "Accessories": [{
+
+    }]
+    
+}

@@ -1,0 +1,194 @@
+{
+    "CelebrityFaces": [
+        {
+            "Urls": [
+                "www.wikidata.org/wiki/Q1058",
+                "www.imdb.com/name/nm5177533"
+            ],
+            "Name": "Narendra Modi",
+            "Id": "1ZT9JF8v",
+            "Face": {
+                "BoundingBox": {
+                    "Width": 0.11336681991815567,
+                    "Height": 0.25342026352882385,
+                    "Left": 0.23687343299388885,
+                    "Top": 0.05549256503582001
+                },
+                "Confidence": 99.99927520751953,
+                "Landmarks": [
+                    {
+                        "Type": "nose",
+                        "X": 0.30727145075798035,
+                        "Y": 0.19360823929309845
+                    },
+                    {
+                        "Type": "eyeRight",
+                        "X": 0.3255561292171478,
+                        "Y": 0.15313908457756042
+                    },
+                    {
+                        "Type": "mouthLeft",
+                        "X": 0.2806985676288605,
+                        "Y": 0.23564012348651886
+                    },
+                    {
+                        "Type": "eyeLeft",
+                        "X": 0.2762223184108734,
+                        "Y": 0.1537744402885437
+                    },
+                    {
+                        "Type": "mouthRight",
+                        "X": 0.32187533378601074,
+                        "Y": 0.23494698107242584
+                    }
+                ],
+                "Pose": {
+                    "Roll": 0.0787297859787941,
+                    "Yaw": 9.169689178466797,
+                    "Pitch": 4.790395259857178
+                },
+                "Quality": {
+                    "Brightness": 87.68558502197266,
+                    "Sharpness": 78.64350128173828
+                },
+                "Emotions": [
+                    {
+                        "Type": "HAPPY",
+                        "Confidence": 99.77129364013672
+                    },
+                    {
+                        "Type": "SURPRISED",
+                        "Confidence": 0.06351426243782043
+                    },
+                    {
+                        "Type": "CONFUSED",
+                        "Confidence": 0.06116160750389099
+                    },
+                    {
+                        "Type": "CALM",
+                        "Confidence": 0.027626950293779373
+                    },
+                    {
+                        "Type": "SAD",
+                        "Confidence": 0.02419043518602848
+                    },
+                    {
+                        "Type": "ANGRY",
+                        "Confidence": 0.021321533247828484
+                    },
+                    {
+                        "Type": "FEAR",
+                        "Confidence": 0.019108034670352936
+                    },
+                    {
+                        "Type": "DISGUSTED",
+                        "Confidence": 0.011779948137700558
+                    }
+                ],
+                "Smile": {
+                    "Value": true,
+                    "Confidence": 99.46111297607422
+                }
+            },
+            "MatchConfidence": 99.94156646728516,
+            "KnownGender": {
+                "Type": "Male"
+            }
+        },
+        {
+            "Urls": [
+                "www.wikidata.org/wiki/Q4746875"
+            ],
+            "Name": "Amit Shah",
+            "Id": "ZR6J4J",
+            "Face": {
+                "BoundingBox": {
+                    "Width": 0.11401644349098206,
+                    "Height": 0.2472003549337387,
+                    "Left": 0.5552842020988464,
+                    "Top": 0.06849441677331924
+                },
+                "Confidence": 99.99800109863281,
+                "Landmarks": [
+                    {
+                        "Type": "nose",
+                        "X": 0.6107747554779053,
+                        "Y": 0.21108070015907288
+                    },
+                    {
+                        "Type": "eyeRight",
+                        "X": 0.6308561563491821,
+                        "Y": 0.15527525544166565
+                    },
+                    {
+                        "Type": "mouthLeft",
+                        "X": 0.5999533534049988,
+                        "Y": 0.2515949010848999
+                    },
+                    {
+                        "Type": "eyeLeft",
+                        "X": 0.5828427076339722,
+                        "Y": 0.17692136764526367
+                    },
+                    {
+                        "Type": "mouthRight",
+                        "X": 0.6401842832565308,
+                        "Y": 0.2336709201335907
+                    }
+                ],
+                "Pose": {
+                    "Roll": -15.481063842773438,
+                    "Yaw": -3.801954507827759,
+                    "Pitch": 6.675502777099609
+                },
+                "Quality": {
+                    "Brightness": 83.88677978515625,
+                    "Sharpness": 73.32209777832031
+                },
+                "Emotions": [
+                    {
+                        "Type": "HAPPY",
+                        "Confidence": 99.50865173339844
+                    },
+                    {
+                        "Type": "ANGRY",
+                        "Confidence": 0.25100743770599365
+                    },
+                    {
+                        "Type": "DISGUSTED",
+                        "Confidence": 0.07942953705787659
+                    },
+                    {
+                        "Type": "SURPRISED",
+                        "Confidence": 0.05774613842368126
+                    },
+                    {
+                        "Type": "FEAR",
+                        "Confidence": 0.04662957787513733
+                    },
+                    {
+                        "Type": "CONFUSED",
+                        "Confidence": 0.03014320321381092
+                    },
+                    {
+                        "Type": "SAD",
+                        "Confidence": 0.020341698080301285
+                    },
+                    {
+                        "Type": "CALM",
+                        "Confidence": 0.006048860959708691
+                    }
+                ],
+                "Smile": {
+                    "Value": true,
+                    "Confidence": 99.6773910522461
+                }
+            },
+            "MatchConfidence": 99.95768737792969,
+            "KnownGender": {
+                "Type": "Male"
+            }
+        }
+    ],
+    "UnrecognizedFaces": []
+}
